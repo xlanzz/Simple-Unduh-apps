@@ -9,7 +9,7 @@ export async function GET() {
       {
         name: "FF BETA ASTUTE V1",
         icon: "https://via.placeholder.com/64x64/8B5CF6/FFFFFF?text=FF",
-        thumb: "https://via.placeholder.com/400x225/8B5CF6/FFFFFF?text=ASTUTE+V1",
+        thumb: "https://files.catbox.moe/y2lzri.jpeg",
         desk: "Enhanced Free Fire with advanced anti-cheat system and optimized performance for competitive gaming.",
         version: "1.95.2",
         size: "125 MB",
@@ -45,7 +45,7 @@ export async function GET() {
       {
         name: "FF BETA ULTRA V2",
         icon: "https://via.placeholder.com/64x64/EC4899/FFFFFF?text=FF",
-        thumb: "https://via.placeholder.com/400x225/EC4899/FFFFFF?text=ULTRA+V2",
+        thumb: "https://files.catbox.moe/y2lzri.jpeg",
         desk: "Ultra version with 120fps support, enhanced graphics, and exclusive game modes for premium experience.",
         version: "1.96.0",
         size: "180 MB",
@@ -81,7 +81,7 @@ export async function GET() {
       {
         name: "FF BETA LITE",
         icon: "https://via.placeholder.com/64x64/10B981/FFFFFF?text=FF",
-        thumb: "https://via.placeholder.com/400x225/10B981/FFFFFF?text=LITE",
+        thumb: "https://files.catbox.moe/y2lzri.jpeg",
         desk: "Lightweight version optimized for low-end devices while maintaining core beta features.",
         version: "1.94.8",
         size: "85 MB",
@@ -117,7 +117,7 @@ export async function GET() {
       {
         name: "FF BETA PRO MAX",
         icon: "https://via.placeholder.com/64x64/F59E0B/FFFFFF?text=FF",
-        thumb: "https://via.placeholder.com/400x225/F59E0B/FFFFFF?text=PRO+MAX",
+        thumb: "https://files.catbox.moe/y2lzri.jpeg",
         desk: "Professional edition with advanced customization options and exclusive pro features.",
         version: "1.97.1",
         size: "220 MB",
