@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: "FF BETA",
   description: "Unduh aplikasi Free Fire Beta secara gratis dan resmi. FF BETA adalah platform terpercaya untuk mengakses versi terbaru Free Fire sebelum dirilis ke publik. Dapatkan pembaruan lebih awal, uji fitur baru, dan nikmati pengalaman bermain yang lebih seru!",
-  generator: "beta.dev",
+  generator: "XEoms.dev",
   icons: {
     icon: "https://files.catbox.moe/o6tznl.ico",
     shortcut: "https://files.catbox.moe/o6tznl.ico",
