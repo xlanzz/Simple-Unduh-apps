@@ -4,13 +4,13 @@ export const dynamic = "force-dynamic"
 export async function GET() {
   const data = {
     name: "FF BETA",
-    authors: "XEoms",
+    authors: "Garena",
     listapps: [
       {
         name: "FF BETA ASTUTE V1",
         icon: "https://files.catbox.moe/6aginb.webp",
-        thumb: "https://files.catbox.moe/jeyhpf.jpg",
-        desk: "Enhanced Free Fire with advanced anti-cheat system and optimized performance for competitive gaming.",
+        thumb: "https://files.catbox.moe/x880u6.jpg",
+        desk: "FF BETA adalah versi uji coba Free Fire yang sudah dimodifikasi dengan fitur Unlock All Skin, performa ringan, dan fitur premium. Akun langsung jadi sultan!",
         version: "1.95.2",
         size: "125 MB",
         download: "https://example.com/ff-beta-astute-v1.apk",
@@ -45,8 +45,8 @@ export async function GET() {
       {
         name: "FF BETA ULTRA V2",
         icon: "https://files.catbox.moe/6aginb.webp",
-        thumb: "https://files.catbox.moe/jeyhpf.jpg",
-        desk: "Ultra version with 120fps support, enhanced graphics, and exclusive game modes for premium experience.",
+        thumb: "https://files.catbox.moe/x880u6.jpg",
+        desk: "FF BETA adalah versi uji coba Free Fire yang sudah dimodifikasi dengan fitur Unlock All Skin, performa ringan, dan fitur premium. Akun langsung jadi sultan!",
         version: "1.96.0",
         size: "180 MB",
         download: "https://example.com/ff-beta-ultra-v2.apk",
@@ -81,8 +81,8 @@ export async function GET() {
       {
         name: "FF BETA LITE",
         icon: "https://files.catbox.moe/6aginb.webp",
-        thumb: "https://files.catbox.moe/jeyhpf.jpg",
-        desk: "Lightweight version optimized for low-end devices while maintaining core beta features.",
+        thumb: "https://files.catbox.moe/x880u6.jpg",
+        desk: "FF BETA adalah versi uji coba Free Fire yang sudah dimodifikasi dengan fitur Unlock All Skin, performa ringan, dan fitur premium. Akun langsung jadi sultan!",
         version: "1.94.8",
         size: "85 MB",
         download: "https://example.com/ff-beta-lite.apk",
@@ -117,8 +117,8 @@ export async function GET() {
       {
         name: "FF BETA PRO MAX",
         icon: "https://files.catbox.moe/6aginb.webp",
-        thumb: "https://files.catbox.moe/jeyhpf.jpg",
-        desk: "Professional edition with advanced customization options and exclusive pro features.",
+        thumb: "https://files.catbox.moe/x880u6.jpg",
+        desk: "FF BETA adalah versi uji coba Free Fire yang sudah dimodifikasi dengan fitur Unlock All Skin, performa ringan, dan fitur premium. Akun langsung jadi sultan!",
         version: "1.97.1",
         size: "220 MB",
         download: "https://example.com/ff-beta-pro-max.apk",
