@@ -17,33 +17,33 @@ export async function GET() {
         unlock_steps: [
           {
             title: "Subscribe YouTube",
-            url: "https://youtube.com/subscribe-astute",
+            url: "https://youtube.com/@skinxtraa",
             icon: "youtube",
           },
           {
             title: "Join Telegram",
-            url: "https://t.me/astute-channel",
+            url: "https://youtube.com/@skinxtraa",
             icon: "telegram",
           },
           {
             title: "Follow Instagram",
-            url: "https://instagram.com/astute-gaming",
+            url: "https://youtube.com/@skinxtraa",
             icon: "instagram",
           },
           {
             title: "Visit Website",
-            url: "https://astute-gaming.com/unlock",
+            url: "https://youtube.com/@skinxtraa",
             icon: "website",
           },
           {
             title: "Support me",
-            url: "https://support.astute-gaming.com",
-            icon: "survey",
+            url: "https://youtube.com/@skinxtraa",
+            icon: "website",
           },
         ],
       },
       {
-        name: "FF BETA ULTRA V2",
+        name: "FF BETA ASTUTE V2",
         icon: "https://files.catbox.moe/6aginb.webp",
         thumb: "https://files.catbox.moe/x880u6.jpg",
         desk: "FF BETA adalah versi uji coba Free Fire yang sudah dimodifikasi dengan fitur Unlock All Skin, performa ringan, dan fitur premium. Akun langsung jadi sultan!",
@@ -53,33 +53,33 @@ export async function GET() {
         unlock_steps: [
           {
             title: "Subscribe YouTube",
-            url: "https://youtube.com/subscribe-ultra",
+            url: "https://youtube.com/@skinxtraa",
             icon: "youtube",
           },
           {
             title: "Join Telegram",
-            url: "https://t.me/ultra-channel",
+            url: "https://youtube.com/@skinxtraa",
             icon: "telegram",
           },
           {
             title: "Follow Instagram",
-            url: "https://instagram.com/ultra-gaming",
+            url: "https://youtube.com/@skinxtraa",
             icon: "instagram",
           },
           {
             title: "Visit Website",
-            url: "https://ultra-gaming.com/unlock",
+            url: "https://youtube.com/@skinxtraa",
             icon: "website",
           },
           {
             title: "Support me",
-            url: "https://support.ultra-gaming.com",
-            icon: "survey",
+            url: "https://youtube.com/@skinxtraa",
+            icon: "website",
           },
         ],
       },
       {
-        name: "FF BETA LITE",
+        name: "FF BETA ASTUTE V3",
         icon: "https://files.catbox.moe/6aginb.webp",
         thumb: "https://files.catbox.moe/x880u6.jpg",
         desk: "FF BETA adalah versi uji coba Free Fire yang sudah dimodifikasi dengan fitur Unlock All Skin, performa ringan, dan fitur premium. Akun langsung jadi sultan!",
@@ -89,33 +89,33 @@ export async function GET() {
         unlock_steps: [
           {
             title: "Subscribe YouTube",
-            url: "https://youtube.com/subscribe-lite",
+            url: "https://youtube.com/@skinxtraa",
             icon: "youtube",
           },
           {
             title: "Join Telegram",
-            url: "https://t.me/lite-channel",
+            url: "https://youtube.com/@skinxtraa",
             icon: "telegram",
           },
           {
             title: "Follow Instagram",
-            url: "https://instagram.com/lite-gaming",
+            url: "https://youtube.com/@skinxtraa",
             icon: "instagram",
           },
           {
             title: "Visit Website",
-            url: "https://lite-gaming.com/unlock",
+            url: "https://youtube.com/@skinxtraa",
             icon: "website",
           },
           {
             title: "Support me",
-            url: "https://support.lite-gaming.com",
-            icon: "survey",
+            url: "https://youtube.com/@skinxtraa",
+            icon: "website",
           },
         ],
       },
       {
-        name: "FF BETA PRO MAX",
+        name: "FF BETA ASTUTE V4",
         icon: "https://files.catbox.moe/6aginb.webp",
         thumb: "https://files.catbox.moe/x880u6.jpg",
         desk: "FF BETA adalah versi uji coba Free Fire yang sudah dimodifikasi dengan fitur Unlock All Skin, performa ringan, dan fitur premium. Akun langsung jadi sultan!",
@@ -125,28 +125,28 @@ export async function GET() {
         unlock_steps: [
           {
             title: "Subscribe YouTube",
-            url: "https://youtube.com/subscribe-pro",
+            url: "https://youtube.com/@skinxtraa",
             icon: "youtube",
           },
           {
             title: "Join Telegram",
-            url: "https://t.me/pro-channel",
+            url: "https://youtube.com/@skinxtraa",
             icon: "telegram",
           },
           {
             title: "Follow Instagram",
-            url: "https://instagram.com/pro-gaming",
+            url: "https://youtube.com/@skinxtraa",
             icon: "instagram",
           },
           {
             title: "Visit Website",
-            url: "https://pro-gaming.com/unlock",
+            url: "https://youtube.com/@skinxtraa",
             icon: "website",
           },
           {
             title: "Support me",
-            url: "https://support.pro-gaming.com",
-            icon: "survey",
+            url: "https://youtube.com/@skinxtraa",
+            icon: "website",
           },
         ],
       },
